@@ -1,0 +1,20 @@
+# 2alive
+2alive rules
+
+This is a usefull comunity  bot that can help you manage easly your server amd others.
+
+1. The bot can do community commands - userinfo
+                                     - avatar
+                                     - say
+                                     - invite
+                                     - uptime
+                                     - ping
+ 
+ 2. The bot can also do moderation commands - mute
+                                            - unmute
+                                            - kick
+                                            - ban
+                                            - unban
+                                            - give roles 
+                                            - remove roles
+                                            - addemoji
